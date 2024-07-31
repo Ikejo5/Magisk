@@ -1,3 +1,5 @@
+
+
 # Magisk Changelog
 
 ### v27.0
